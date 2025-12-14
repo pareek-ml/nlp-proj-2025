@@ -1,0 +1,36 @@
+{
+  "os": "Linux-6.14.0-1019-gcp-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-11-28T13:44:47.237352Z",
+  "program": "/home/yashpareek_workmail/unsloth_finetuning/notebooks/01_finetuning.ipynb",
+  "codePath": "/home/yashpareek_workmail/unsloth_finetuning/notebooks/01_finetuning.ipynb",
+  "codePathLocal": "01_finetuning.ipynb",
+  "email": "yash.pareek@usi.ch",
+  "root": "/home/yashpareek_workmail/unsloth_finetuning/notebooks",
+  "host": "ubuntu-finetuning.us-central1-b.c.nlp2025-finetune.internal",
+  "executable": "/home/yashpareek_workmail/unsloth-venv/bin/python",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "gpu": "NVIDIA L4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "154894188544",
+      "used": "21166301184"
+    }
+  },
+  "memory": {
+    "total": "16767234048"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA L4",
+      "memoryTotal": "24152899584",
+      "cudaCores": 7424,
+      "architecture": "Ada",
+      "uuid": "GPU-fe6664b5-1446-9e57-f7f6-14b692689232"
+    }
+  ],
+  "cudaVersion": "13.0",
+  "writerId": "2t21jcnph0ngwmwijnaudkb6qcbgfuva"
+}
