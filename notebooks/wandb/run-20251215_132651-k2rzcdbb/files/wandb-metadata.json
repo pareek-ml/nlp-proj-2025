@@ -1,0 +1,40 @@
+{
+  "os": "Linux-6.14.0-1019-gcp-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-12-15T13:26:51.175639Z",
+  "program": "/home/yashpareek_workmail/unsloth_finetuning/notebooks/01_finetuning.ipynb",
+  "codePath": "/home/yashpareek_workmail/unsloth_finetuning/notebooks/01_finetuning.ipynb",
+  "codePathLocal": "01_finetuning.ipynb",
+  "git": {
+    "remote": "https://github.com/pareek-ml/nlp-proj-2025.git",
+    "commit": "45f5e7419d6cb5759096e73275b639adab119be9"
+  },
+  "email": "yash.pareek@usi.ch",
+  "root": "/home/yashpareek_workmail/unsloth_finetuning/notebooks",
+  "host": "ubuntu-finetuning.us-central1-b.c.nlp2025-finetune.internal",
+  "executable": "/home/yashpareek_workmail/unsloth-venv/bin/python",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "gpu": "NVIDIA L4",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "154894188544",
+      "used": "22176747520"
+    }
+  },
+  "memory": {
+    "total": "16767229952"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA L4",
+      "memoryTotal": "24152899584",
+      "cudaCores": 7424,
+      "architecture": "Ada",
+      "uuid": "GPU-0ff06a5f-75c2-3d58-5a49-60f4150cf70b"
+    }
+  ],
+  "cudaVersion": "13.0",
+  "writerId": "zyw3c0irnrlm9f93c8ey2cri36c0bifn"
+}
